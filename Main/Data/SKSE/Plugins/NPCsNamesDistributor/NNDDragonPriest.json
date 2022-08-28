@@ -1,0 +1,57 @@
+{
+    "comment0": "Dragon Priests use Dragon names, but they are only granted 2 words",
+    "comment": "Noun + adjective",
+    "comment2": "Prefixes all start with space (' ') to workaround the Strings issue of Skyrim",
+    "NND_Given": {
+        "NND_Any": {
+            "NND_Prefix": {
+                "NND_Names": [
+                    " Aak"," Aan"," Aar"," Aav"," Aaz"," Ah"," Ahmik"," Ahrol"," Al"," Am"," Aus",
+                    " Bah"," Bel"," Brod"," Brom",
+                    " Daal"," Daan"," Denek"," Deyra"," Dez"," Dinok"," Dovah"," Drem"," Drog"," Du"," Dun"," Dur"," Dwiin",
+                    " Faas"," Feim"," Feyn"," Fo"," Frin"," Fus",
+                    " Gaaf"," Gaan"," Galik"," Gol"," Golt"," Golz"," Grah"," Gram",
+                    " Haas"," Hah"," Heim"," Heyv",
+                    " Iiz"," In",
+                    " Jer"," Jot",
+                    " Kah"," Kein"," Kiir"," Klo"," Koor"," Krah"," Krein"," Kul"," Kun",
+                    " Laas"," Lahvu"," Lein"," Lok"," Luv",
+                    " Maar"," Midun"," Mon"," Monah"," Moro"," Mul",
+                    " Naar"," Nah"," Nax"," Nil"," Nir"," Nus",
+                    " Od"," Oth"," Ov",
+                    " Paal"," Paar",
+                    " Qoth",
+                    " Rah"," Rath"," Rein"," Reyth"," Rii"," Riik"," Ro"," Rok"," Ronit"," Ronit"," Rot",
+                    " Sah"," Sik"," Sil"," Slen"," So"," Sod"," Sos"," Spaan"," Stin"," Stin"," Strun"," Sul",
+                    " Tey"," Tiid"," Toor",
+                    " Ul",
+                    " Vaat"," Ven"," Veydo"," Viin"," Viing"," Vith"," Vod"," Vol"," Vu"," Vulom"," Vulon"," Vur",
+                    " Wol"," Wuld",
+                    " Yol"," Yolos",
+                    " Zaam"," Zaan"," Zein"," Zii"," Zin"," Zind"," Zol"," Zul"," Zun"
+                ]
+            },
+            "NND_Names": [
+                "ahzid","bein",
+                "bii","bonaar","boziik","brit","brom",
+                "daanik","diil","diivon","dilos","dukaan","dun","dur","dwiin",
+                "faad","faasnu","faaz","fel","fodiiz","folaas","frin","frul",
+                "gein","golah","goraan","graag","gro","gut",
+                "hevno",
+                "jer",
+                "kah","kiin","kinzon","kosil","kras","kreh","krent","kril","krilot","krin",
+                "lot",
+                "maar","mal","mid","mir","mul","mulaag","munax",
+                "nahl","nahlot","nonvul","norok",
+                "odus","onik",
+                "paak","paaz","pahlok","pruzah",
+                "revak",
+                "sadon","sahlo","sahqo","sahqon","sahrot","sizaan","sot","stin",
+                "thaarn",
+                "vokul","vonun","vonuz","vul",
+                "wuth","yuvon",
+                "zah","zin","zok"
+            ]
+        }
+    }
+}
